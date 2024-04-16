@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{616330CD-0D35-4CEA-987C-848DCF9210A6}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		ranking.js = ranking.js
+		script.js = script.js
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C63D1D-61CC-40DD-BEE7-85898727C956}
+	EndGlobalSection
+EndGlobal
